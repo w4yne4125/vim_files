@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/loyolaaa/homework_1_2/dsa_git/B06902058/3'
+let g:netrw_dirhist_2='/Users/loyolaaa/homework_1_2/dsa_git/B06902058'
+let g:netrw_dirhist_3='/Users/loyolaaa/codes'
+let g:netrw_dirhist_4='/Users/loyolaaa/codes/ntuj'
+let g:netrw_dirhist_5='/Users/loyolaaa/codes'
+let g:netrw_dirhist_6='/Users/loyolaaa/codes/judgegirl'
+let g:netrw_dirhist_7='/Users/loyolaaa/homework_1_2/B06902058'
