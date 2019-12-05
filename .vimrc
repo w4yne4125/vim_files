@@ -1,12 +1,3 @@
-if filereadable(expand("~/.vimrc.bundles"))
-  source ~/.vimrc.bundles
-endif
-filetype off
-set rtp+=~/.vim/bundle/vundle/
-call vundle#rc()
-Plugin 'scrooloose/nerdtree'
-map <C-n> :NERDTreeToggle<CR>
-au BufNewFile *.cpp 0r ~/default.cpp 
 
 syntax on
 set background=dark
